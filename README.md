@@ -1,16 +1,24 @@
 ### Hi there 👋
+## DEME Rémy
 
-<!--
-**Remydeme/Remydeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer focusing on  `Golang` and Typescript (NestJs and Express).
+I'm a Domain driven design practitioner. 
 
-Here are some ideas to get you started:
+I'm actually working on event driven architecture and Gql.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Projects](https://github.com/Remydeme?tab=repositories&type=source&sort=stargazers)
+- [Gists](https://gist.github.com/Remydeme)
+
+## Get in touch
+- Gmail: demeremy@gmail.com
+- LinkedIn: [@Remydeme](https://fr.linkedin.com/in/remy-deme-informatique)
+
+## GitHub analytics
+
+<p align="left">
+<a href="https://github.com/Remydeme">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Remydeme&hide_border=true&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Remydeme&hide_border=true&layout=compact&langs_count=8&theme=graywhite"/>
+</a>
+</p>
+© 2022 GitHub, Inc.
