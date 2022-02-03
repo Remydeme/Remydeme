@@ -4,7 +4,7 @@
 I'm a backend developer focusing on  `Golang` and Typescript (NestJs and Express).
 I'm a Domain driven design practitioner. 
 
-I'm actually working on event driven architecture and Gql.
+I am currently working on event driven architecture and Gql.
 
 - [Projects](https://github.com/Remydeme?tab=repositories&type=source&sort=stargazers)
 - [Gists](https://gist.github.com/Remydeme)
