@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## DEME Rémy
 
-I'm a backend developer focusing on  `Golang` and Typescript (NestJs and Express).
+I'm a Full stack developer focusing on Golang, Typescript and Dart.
 I'm a Domain driven design practitioner. 
 
 I am currently working on event driven architecture and Gql.
