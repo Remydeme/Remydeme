@@ -1,10 +1,8 @@
 ### Hi there 👋
-## DEME Rémy
 
-I'm a Full stack developer focusing on Golang, Typescript and Dart.
+I'm DEME Rémy, a full-stack maker who dabbles in way too many things. I'm currently focusing on Golang, NestJs and Flutter.  Full-stack developper @Hublo. Don't hesitate to say hi at @Remydeme. 
+
 I'm a Domain driven design practitioner. 
-
-I am currently working on event driven architecture and Gql.
 
 - [Projects](https://github.com/Remydeme?tab=repositories&type=source&sort=stargazers)
 - [Gists](https://gist.github.com/Remydeme)
