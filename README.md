@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm DEME Rémy, a full-stack maker who dabbles in way too many things. I'm currently focusing on Golang, NestJs, Flutter and Domain Driven Design. Currently full-stack developper @Hublo. Don't hesitate to say hi at @Remydeme. 
+I'm DEME Rémy, a full-stack maker who dabbles in way too many things. I'm currently focusing on Golang, NestJs, Flutter and Domain Driven Design. Currently full-stack developper. Don't hesitate to say hi at @Remydeme. 
 
 
 
